@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"name": "chapter7_exercise",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "chapter7_exercise",
+    "liveServer.settings.port": 5501
+  }
+}
